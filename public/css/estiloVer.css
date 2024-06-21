@@ -1,0 +1,55 @@
+body {
+    font-family: 'Konkhmer Sleokchher', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.img {
+    max-width: 25%;
+    height: auto;
+    margin: -36px auto;
+}
+
+#encabezado {
+    color: #ff567b;
+    margin-bottom: 30px;
+}
+
+.color-form {
+    background-color: #fff;
+    padding: 18px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #83d041;
+    border-color: #83d041;
+}
+
+.btn-primary:hover {
+    background-color: #ec456a;
+    border-color: #ec456a;
+}
+
+.fecha {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+#div{
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+@media (min-width: 768px){
+.col-md-3 {
+    flex: 0 0 auto;
+    width: 25%;
+}
+}

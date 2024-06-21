@@ -1,0 +1,50 @@
+body{
+    font-family: 'Konkhmer Sleokchher', sans-serif;
+    text-align: center;
+    margin: 0 auto;
+}
+.container {
+    max-width: 400px; 
+    margin: 50px auto; 
+}
+
+.color-form {
+    background-color: #fff; 
+    padding: 30px;
+    border-radius: 20px; 
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.1);
+}
+
+#encabezado {
+    color: #ff567b;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.form-control {
+    border-color: #ced4da;
+}
+
+.invalid-feedback {
+    color: #dc3545;
+}
+
+.btn-primary {
+    background-color:#83d041;
+    border-color:#83d041; 
+    transition: background-color 0.3s ease; 
+}
+
+.btn-primary:hover {
+    background-color:  #ec456a;
+    border-color: #ec456a; 
+}
+
+.letras{
+margin-bottom: -67px;
+    margin-top: -91px;
+    width: 200px;
+    height: auto;
+
+}
+@import url('https://fonts.cdnfonts.com/css/konkhmer-sleokchher');

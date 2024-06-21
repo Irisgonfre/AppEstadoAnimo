@@ -1,0 +1,30 @@
+#img_logoLetras{
+    width: 200px;
+    margin-top:20px;
+}
+#btn_cerrarSesion{
+    margin-top: 70px;
+}
+#btn_aniadir{
+    background-color: #7cba44;
+    border-color: #7cba44;
+    height: 200px;
+    width: 200px;
+    line-height: 180px;
+}
+#img_rueda{
+    width: 200px;
+    margin-top: 20px;
+}
+#btn_ver{
+    background-color: #7cba44;
+    border-color: #7cba44;
+    height: 200px;
+    width: 200px;
+    line-height: 180px;
+}
+
+h3{
+    text-align: center;
+    color: #7cba44;
+}
